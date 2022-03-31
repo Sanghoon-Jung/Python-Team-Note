@@ -1,2 +1,2 @@
 # Python-Team-Note
-python algorithm / data structure notes
+algorithm and data structure notes in python
